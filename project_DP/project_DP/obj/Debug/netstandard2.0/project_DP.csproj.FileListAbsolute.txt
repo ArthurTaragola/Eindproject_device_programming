@@ -1,0 +1,13 @@
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\bin\Debug\netstandard2.0\project_DP.deps.json
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\bin\Debug\netstandard2.0\project_DP.dll
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\project_DP.csprojAssemblyReference.cache
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\project_DP.AssemblyInfoInputs.cache
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\project_DP.AssemblyInfo.cs
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\bin\Debug\netstandard2.0\ref\project_DP.dll
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\bin\Debug\netstandard2.0\project_DP.pdb
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\project_DP.dll
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\ref\project_DP.dll
+D:\school\device\Eindproject_device_programming\project_DP\project_DP\obj\Debug\netstandard2.0\project_DP.pdb
